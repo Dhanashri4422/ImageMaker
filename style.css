@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.image-container {
+    height: 250px;
+    text-align: center;
+    padding: 10%;
+    margin: -10%;
+}
+
+.image-container img {
+    width: 10%;
+    text-align: center;
+}
+
+#hidden{display: none;}
+
+.file-container {
+    padding: 70px;
+    border-top: 2px solid black;
+    text-align: center;
+    margin-top: 0px;
+}
